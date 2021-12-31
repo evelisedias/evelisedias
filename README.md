@@ -1,14 +1,12 @@
-### Oii! Eu sou Evelise Dias 
+## Oii! Eu sou Evelise Dias 
 
+ - 😄 Pronouns: Ela/Dela
 - 🔭 Atualmente trabalho com implantaçao de sistema contabil;
-
 - 🐱‍🏍 Tentando me salvar do tédio, estou me aventurando nessa loucura que a galera chama de Guria/Guri da TI 😂😂😂😂
-
-
 - 🌱 Estou estudando JavaScript, HTML e CSS
 
 
-- 😄 Pronouns: Ela/Dela
+
 <br>
 <div align="center">
   <a href="https://github.com/evelisedias">
