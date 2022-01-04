@@ -1,7 +1,9 @@
-## Hey!I'm Evelise Dias 
-
+# Hey! I'm Evelise Dias 
+  ### Welcome to my World.
+ 
  - 😄 Pronouns: She/Her
-- 🔭 I have had almost 6 years of experience with tax and accounting, personal department, and payroll, and 3 of them with deploying and training.
+- 🔭 I'm working at TR as External Support Technician.
+<br> I have had almost 6 years of experience with tax and accounting, personal department, and payroll; And 3 of them with deploying and training.
 - 🐱‍🏍 I'm passionate about helping people solve problems and I'm also passionate about knowledge.
 - 🌱 I'm a learner and enthusiast of technologies, now I'm a student at Alura and I'm learning about JavaScript, HTML, and CSS.
 
