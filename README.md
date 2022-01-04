@@ -1,10 +1,9 @@
-## Oii! Eu sou Evelise Dias 
+## Hey!I'm Evelise Dias 
 
- - 😄 Pronouns: Ela/Dela
-- 🔭 Atualmente trabalho com implantaçao de sistema contabil;
-- 🐱‍🏍 Tentando me salvar do tédio, estou me aventurando nessa loucura que a galera chama de Guria/Guri da TI 😂😂😂😂
-- 🌱 Estou estudando JavaScript, HTML e CSS
-
+ - 😄 Pronouns: She/Her
+- 🔭 I have had almost 6 years of experience with tax and accounting, personal department, and payroll, and 3 of them with deploying and training.
+- 🐱‍🏍 I'm passionate about helping people solve problems and I'm also passionate about knowledge.
+- 🌱 I'm a learner and enthusiast of technologies, now I'm a student at Alura and I'm learning about JavaScript, HTML, and CSS.
 
 
 <br>
