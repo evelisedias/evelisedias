@@ -4,8 +4,8 @@
  - 😄 Pronouns: She/Her
 - 🔭 I'm loking for a job
 <br> I have had almost 6 years of experience with tax and accounting, personal department, and payroll; And 3 of them with deploying and training.
-- 🐱‍🏍 I'm passionate about helping people solve problems and I'm also passionate about knowledge.
-- 🌱 I'm a learner and enthusiast of technologies, now I'm a student at Unisinos and I'm learning about JavaScript, HTML, and CSS.
+- :nerd_face: I'm passionate about helping people solve problems and I'm also passionate about knowledge.
+- 🌱 I'm a learner and enthusiast of technologies, now I'm a student at Unisinos and I'm learning about JavaScript, HTML, CSS and Python.
 
 
 <br>
@@ -19,7 +19,8 @@
   <img align="center" alt="eve-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="eve-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="eve-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="eve-PHP" height="30" width="40" src="https://raw.github.com/devicons/devicon/blob/master/icons/php/php-original.svg>
+  <img align="center" alt="eve-PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="eve-PYTHON" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     
     
 </div>
