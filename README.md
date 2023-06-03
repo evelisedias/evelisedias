@@ -3,7 +3,7 @@
  
  - 😄 Pronouns: She/Her
 - 🔭 I'm loking for a job
-<br> I have had almost 6 years of experience with tax and accounting, personal department, and payroll; And 3 of them with deploying and training.
+<br> I have had almost 6 years of experience with tax and accounting, personal department, and payroll; And 3 of them with support, deploying and training.
 - :nerd_face: I'm passionate about helping people solve problems and I'm also passionate about knowledge.
 - 🌱 I'm a learner and enthusiast of technologies.
 
