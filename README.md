@@ -1,5 +1,5 @@
 # Olá! Eu sou a Evelise Dias
-**Bem-vindo ao meu Mundo de Desenvolvimento.**
+**Bem-vindo ao meu Mundo.**
 
 😄 **Pronomes**: Ela/Dela<br>
 🔭 **Atualmente em busca de novas oportunidades**: Apaixonada por desenvolvimento e pela criação de soluções impactantes.<br>
