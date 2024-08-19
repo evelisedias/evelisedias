@@ -11,12 +11,12 @@
 - Gestão de Projetos: Trabalho com metodologias Scrum, organizando equipes para eventos de campeonatos e gerenciando questões técnicas de integração de sistemas.
 - Construção do meu portfólio de programação, do zero, usando HTML e hospedando no GitHub Pages.
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/evelisedias">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=evelisedias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelisedias&layout=compact&langs_count=7&theme=dark"/>
   </a>
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="eve-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
