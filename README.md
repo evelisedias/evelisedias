@@ -1,15 +1,73 @@
-# Olá! Eu sou a Evelise Dias
-**Bem-vindo ao meu Mundo.**
+# Evelise Dias  
+Engenharia de Dados • Sistemas • Decisão orientada por dados
 
-😄 **Pronomes**: Ela/Dela  
-🔭 **Atualmente em busca de novas oportunidades**: Apaixonada por desenvolvimento e pela criação de soluções impactantes.  
-💼 **Experiência Profissional**: Tenho mais de 6 anos de experiência em áreas como fiscal, contabilidade, folha de pagamento e suporte ao cliente, me especializei em implantação de sistemas, suporte e treinamentos para clientes.  
-💡 **O que me motiva**: Sou movida pelo desejo de resolver problemas complexos e expandir meu conhecimento constantemente no mundo da tecnologia e programação.  
+Engenheira de dados atuando na construção de **pipelines, modelos e sistemas de dados confiáveis**, com forte entendimento de regras de negócio, operação e impacto real.
 
-🌱 **Atualmente Trabalhando em**:  
-- Desenvolvimento das minhas habilidades como FullStack, com foco em JavaScript, React, Java, Spring Boot, HTML e CSS.  
-- Criação de soluções na área de sucesso do cliente, personalizando atendimento para melhor gestão de restaurantes e melhorando a experiência do usuário.  
-- Construção do meu portfólio de programação, do zero, usando HTML e hospedando no GitHub Pages.
+Meu diferencial é unir **engenharia + contexto**: dados bem modelados, processos claros e decisões sustentáveis.
+
+---
+
+## Atuação principal
+
+- Engenharia de Dados aplicada a negócio
+  - Modelagem de dados
+  - Construção e manutenção de pipelines
+  - Automação e qualidade de dados
+  - Suporte à tomada de decisão
+
+- Trabalho com dados em ambientes complexos, onde:
+  - Regra mal definida vira erro financeiro
+  - Dado ruim vira decisão ruim
+  - Sistema precisa ser auditável e confiável
+
+---
+
+## Stack e ferramentas
+
+**Linguagens e tecnologias**
+- Python
+- SQL
+- Java
+
+**Engenharia e dados**
+- Modelagem relacional e analítica
+- ETL / ELT
+- Validação e qualidade de dados
+- Versionamento e documentação
+
+**Complementar**
+- JavaScript | TypeScript | React  
+  (usados em side projects e ferramentas internas)
+
+---
+
+## Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="eve-Python" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="eve-Java" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="eve-Js" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="eve-React" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="eve-TypeScript" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+</div>
+
+---
+
+## Contato
+
+<div>
+  <a href="https://www.linkedin.com/in/evelise-dias-44a72a87/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:evelisedias72@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/evelisedias">
