@@ -14,19 +14,20 @@ Meu diferencial é unir **engenharia + contexto**: dados bem modelados, processo
   - Construção e manutenção de pipelines
   - Automação e qualidade de dados
   - Suporte à tomada de decisão
-
-- Trabalho com dados em ambientes complexos, onde:
-  - Regra mal definida vira erro financeiro
-  - Dado ruim vira decisão ruim
-  - Sistema precisa ser auditável e confiável
+- Trabalho com dados em ambientes complexos
 
 ---
 
 ## Stack e ferramentas
 
 **Linguagens e tecnologias**
-- Python
 - SQL
+- DBT
+- Airflow
+- GCP
+- Pyspark
+- Python
+- Databricks
 - Java
 
 **Engenharia e dados**
@@ -43,18 +44,9 @@ Meu diferencial é unir **engenharia + contexto**: dados bem modelados, processo
 
 ## Tecnologias
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="eve-Python" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="eve-Java" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="eve-Js" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="eve-React" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="eve-TypeScript" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30"/>
+</p>
 
 ---
 
@@ -74,16 +66,6 @@ Meu diferencial é unir **engenharia + contexto**: dados bem modelados, processo
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=evelisedias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelisedias&layout=compact&langs_count=7&theme=dark"/>
   </a>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="eve-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="eve-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="eve-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="eve-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="eve-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="eve-PYTHON" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="eve-JAVA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
 </div>
 
 <div> 
